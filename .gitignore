@@ -11,7 +11,7 @@ env/
 
 
 # Environment variables
-*.env
+# *.env
 *.venv
 
 # Django-specific files
